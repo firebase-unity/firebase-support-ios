@@ -1,0 +1,19 @@
+{
+  "name": "com.google.firebase.support-ios",
+  "version": "12.0.0",
+  "displayName": "Firebase App Bundle iOS",
+  "keywords": [
+    "Google",
+    "Firebase",
+    "FirebaseApp",
+    "App"
+  ],
+  "author": {
+    "name": "Google LLC",
+    "url": "https://firebase.google.com/docs/unity/setup"
+  },
+  "description": "Firebase App is the core library every Firebase package depends on.",
+  "unity": "2019.1",
+  "dependencies": {
+  }
+}
