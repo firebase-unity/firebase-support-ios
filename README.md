@@ -4,7 +4,7 @@
 
 ### Install by add directly in `manifest.json` in folder `Packages/manifest.json`
 
-for version `12.2.1`
+for version `12.3.0`
 ```csharp
-"com.google.firebase.support-ios": "https://github.com/firebase-unity/firebase-support-ios.git#12.2.1",
+"com.google.firebase.support-ios": "https://github.com/firebase-unity/firebase-support-ios.git#12.3.0",
 ```
